@@ -29,8 +29,8 @@ struct Profile {
 const ME: Profile = Profile {
     name:      "sl91994",
     role:      "Information Engineering Undergrad",
-    interests: ["Malware Analysis", "Bug Bounty", "Supply Chain Security", "eBPF"],
-    ctf:       ["pwnable.kr", "Hack The Box", "AlpacaHack"],
+    interests: ["Malware Analysis", "Bug Hunt", "Pwn", "eBPF"],
+    ctf:       ["pwnable.kr", "Hack The Box", "AlpacaHack", "PicoCTF"],
 };
 ```
 
@@ -42,11 +42,11 @@ const ME: Profile = Profile {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,rust,py,ts,js,bash&theme=dark" />
 
 **Web / Runtime**
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,bun&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,actix&theme=dark" />
 
 **Environment**
 
@@ -78,7 +78,5 @@ const ME: Profile = Profile {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sl91994&theme=transparent)
 
 </div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" />
