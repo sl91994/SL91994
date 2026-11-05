@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=sl91994&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Security%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Software%20Dev&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%24+whoami;Information+Engineering+Student;Malware+Analysis+%2F+Bug+Bounty;Building+tools+with+Rust+%26+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%24+whoami;Script+kiddie;Malware+Analysis+%2F+Bug+Hunt;Building+tools+with+Rust+%26+TypeScript" alt="Typing SVG" />
 </a>
 
 <p>
